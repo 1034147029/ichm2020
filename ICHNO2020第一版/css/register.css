@@ -1,0 +1,16 @@
+.submit{
+	margin: 0.5% 35% ;
+	width: 30%;
+}
+.raiios{
+	width: 100%;
+	height: 30px;
+	display: flex;
+	justify-content : space-between;
+	flex-direction: row ;
+	margin: 2% auto;
+}
+*{
+	margin: 0;
+	padding: 0;
+}

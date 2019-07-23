@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: ;
+}
+.submit{
+	margin: 10% 35% ;
+	width: 30%;
+}
+.register{
+	margin: 10px 0 0 0;
+	width:100%;
+	height: 30px;
+	margin-top: 10px;
+	display: flex;
+	justify-content : space-between;
+	
+}
+
+.raiios{
+	margin: 1% auto;
+	width: 100%;
+	height: 30px;
+	display: flex;
+	justify-content : space-between;
+	flex-direction: row ;
+}
